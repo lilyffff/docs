@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?><hox xmlns:hox="http://www.handysoft.com/xsd/2002/04/HOX/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" local="false" type="draft" version="2.0">
+	<docInfo modification="no">
+		<apprID>R10CB240866995273000</apprID>
+		<orgApprID/>
+		<orgDraftDept>
+			<ID/>
+			<name/>
+		</orgDraftDept>
+		<rejectedApprID/>
+		<sendID>00000000000000000000</sendID>
+		<title>2024년 경상북도 지방기능경기대회 출전</title>
+		<enforceType>enforcetype_not</enforceType>
+		<keepPeriod/>
+		<enforceKeepPeriod/>
+		<securityLevel>99</securityLevel>
+		<attachSecurityLevel>99</attachSecurityLevel>
+		<rankID>0</rankID>
+		<publication type="pubtype_partial">
+			<specialDoc/>
+			<publicationFlag>6</publicationFlag>
+			<publicRestric/>
+			<publicationExpireDate/>
+			<othbcListAt>open</othbcListAt>
+			<docOthbcListAt>open</docOthbcListAt>
+		</publication>
+		<viewRange>dept</viewRange>
+		<viewRestriction>none</viewRestriction>
+		<securityExpireDate>1970-01-01T09:00:00</securityExpireDate>
+		<audit>
+			<type>audittype_not</type>
+			<number>0</number>
+		</audit>
+		<deliberation>
+			<type/>
+			<deliberationDeptID/>
+			<number>0</number>
+		</deliberation>
+		<drafter>
+			<position>교사</position>
+			<ID>ljmpra</ID>
+			<name>이정민</name>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+			<userDept>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</userDept>
+		</drafter>
+		<editor>
+			<position>교사</position>
+			<ID>ljmpra</ID>
+			<name>이정민</name>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+		</editor>
+		<saveDeptID>R100000741</saveDeptID>
+		<folderInfo>
+			<ID>00000000000000000000</ID>
+			<name/>
+		</folderInfo>
+		<draftDate>2024-03-26T16:59:45</draftDate>
+		<approvalDate>2024-03-28T08:42:47</approvalDate>
+		<approvalType>apprtype_normal</approvalType>
+		<approvalFlag>apprflag_attach apprflag_pubshow </approvalFlag>
+		<approvalStatus>apprstatus_finish</approvalStatus>
+		<pageCnt>1</pageCnt>
+		<docNumber>
+			<displayDocNumber>경주정보고등학교-4000</displayDocNumber>
+			<classificationNumber/>
+			<bizUnitCode/>
+			<bizUnitCDDescription/>
+			<docRegSequence>4000</docRegSequence>
+			<regNumber>8750433004000</regNumber>
+			<classCode/>
+			<classCodeDescription/>
+			<expression format="@D-@N">
+				<param name="@D">경주정보고등학교</param>
+				<param name="@N">4000</param>
+			</expression>
+		</docNumber>
+		<formInfo>
+			<formVersion>66</formVersion>
+			<formID>R10CB193640000146000</formID>
+			<formName>@표준서식(결재4인,협조4인)</formName>
+			<ownerDeptID>R100000001</ownerDeptID>
+			<wordType>hwp2002</wordType>
+			<formType>formtype_uniform</formType>
+			<templateFlag>tmplflag_normal tmplflag_checkformver tmplflag_history tmplflag_draftdocnum tmplflag_receiptdocnum</templateFlag>
+			<defaultAction/>
+			<classID/>
+		</formInfo>
+		<exchangeInfo/>
+		<objectIDList>
+			<objectID dirty="" type="objectidtype_attach">
+				<ID>R10CB240866995273100</ID>
+				<name>2024년 경상북도 지방기능경기대회 학생 출전.hwp</name>
+				<maskingName/>
+				<src/>
+				<attachType>99</attachType>
+				<size>28672</size>
+				<restriction hidden="false" modify="true" move="true" remove="true" save="true" view="true"/>
+				<docOthbcListAt>not_open</docOthbcListAt>
+				<linkID>000000000000000</linkID>
+				<participantID>R10CB240866589257000</participantID>
+			</objectID>
+		</objectIDList>
+		<content>
+			<receiptInfo modification="yes">
+				<recipientCount>0</recipientCount>
+				<displayString/>
+				<senderName></senderName>
+				<mainSenderName/>
+				<copertnSenderNames/>
+				<sendOrgName>경주정보고등학교</sendOrgName>
+				<senderID>000000000000000</senderID>
+				<senderDeptID>000000000000000</senderDeptID>
+				<via/>
+			</receiptInfo>
+			<contentNumber>1</contentNumber>
+			<attachInfo>
+				<attach>
+					<ID>00000000000000000000</ID>
+					<ID>R10CB240866995273100</ID>
+				</attach>
+			</attachInfo>
+		</content>
+		<hooyulMethod>hooyulmethod_nosanc</hooyulMethod>
+		<linkDocList dirty=""/>
+		<relationInfo/>
+		<summary dirty=""/>
+		<sendMethod>auto</sendMethod>
+		<copertnDrftYn>N</copertnDrftYn>
+		<taskInfo>
+			<taskCard>
+				<cardID>R10AAA19121900031138</cardID>
+				<cardType>unit</cardType>
+				<cardName>[전문교과교육활동]전문교과교육활동</cardName>
+				<planID/>
+				<dcryName>5년</dcryName>
+			</taskCard>
+			<jobType/>
+		</taskInfo>
+		<enforceDate>2024-03-28T08:42:47</enforceDate></docInfo>
+	<approvalFlow modification="no">
+		<participant absent="false" absnceProcGbn="0" current="false" opinion="false" serverID="0" signStyle="text">
+			<participantID>R10CB240866589257000</participantID>
+			<position>교사</position>
+			<dutyName/>
+			<rankName/>
+			<ID>ljmpra</ID>
+			<name>이정민</name>
+			<type>user</type>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+			<signerLevel>99</signerLevel>
+			<signlessCode name=""/>
+			<date>2024-03-26T16:59:45</date>
+			<signMethod/>
+			<approvalType>user_approval</approvalType>
+			<approvalSubType/>
+			<displayApprovalType>기안</displayApprovalType>
+			<approvalStatus>partapprstatus_done</approvalStatus>
+			<validStatus>valid</validStatus>
+			<grantedAction/>
+			<participantFlag> modified_body modified_apprline modified_attach</participantFlag>
+			<dutyType>partdtype_initiate</dutyType>
+			<participantFlag/>
+			<mappingCell>
+				<cellGroupID>0</cellGroupID>
+				<cellName>서명.1</cellName>
+				<cellFormat>0</cellFormat>
+				<cellName_Log/>
+			</mappingCell>
+			<bodyFileVersion>
+				<major>1</major>
+				<minor>0</minor>
+			</bodyFileVersion>
+			<backup>
+				<approvalType/>
+				<approvalSubType/>
+				<auditType/>
+				<complianceType/>
+				<date>1970-01-01T09:00:00</date>
+			</backup>
+		</participant>
+		<participant absent="false" absnceProcGbn="0" current="false" opinion="false" serverID="0" signStyle="text">
+			<participantID>R10CB240866589638000</participantID>
+			<position>교육정보부장</position>
+			<dutyName/>
+			<rankName/>
+			<ID>bluesky</ID>
+			<name>황정훈</name>
+			<type>user</type>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+			<signerLevel>99</signerLevel>
+			<signlessCode name=""/>
+			<date>2024-03-26T20:14:52</date>
+			<signMethod/>
+			<approvalType>user_approval</approvalType>
+			<approvalSubType/>
+			<displayApprovalType>검토</displayApprovalType>
+			<approvalStatus>partapprstatus_done</approvalStatus>
+			<validStatus>valid</validStatus>
+			<grantedAction/>
+			<participantFlag/>
+			<dutyType/>
+			<participantFlag/>
+			<mappingCell>
+				<cellGroupID>0</cellGroupID>
+				<cellName>서명.2</cellName>
+				<cellFormat>0</cellFormat>
+				<cellName_Log/>
+			</mappingCell>
+			<backup>
+				<approvalType/>
+				<approvalSubType/>
+				<auditType/>
+				<complianceType/>
+				<date>1970-01-01T09:00:00</date>
+			</backup>
+		</participant>
+		<participant absent="false" absnceProcGbn="0" current="false" opinion="false" serverID="0" signStyle="text">
+			<participantID>R10CB240866589639000</participantID>
+			<position>학생생활안전부장</position>
+			<dutyName/>
+			<rankName/>
+			<ID>kgs301</ID>
+			<name>김광식</name>
+			<type>user</type>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+			<signerLevel>99</signerLevel>
+			<signlessCode name=""/>
+			<date>2024-03-27T14:24:43</date>
+			<signMethod/>
+			<approvalType>user_agree_p</approvalType>
+			<approvalSubType/>
+			<displayApprovalType>병렬협조</displayApprovalType>
+			<approvalStatus>partapprstatus_done</approvalStatus>
+			<validStatus>valid</validStatus>
+			<grantedAction/>
+			<participantFlag/>
+			<dutyType/>
+			<participantFlag/>
+			<mappingCell>
+				<cellGroupID>0</cellGroupID>
+				<cellName>협조.1</cellName>
+				<cellFormat>0</cellFormat>
+				<cellName_Log/>
+			</mappingCell>
+			<backup>
+				<approvalType/>
+				<approvalSubType/>
+				<auditType/>
+				<complianceType/>
+				<date>1970-01-01T09:00:00</date>
+			</backup>
+		</participant>
+		<participant absent="false" absnceProcGbn="0" current="false" opinion="false" serverID="0" signStyle="text">
+			<participantID>R10CB240866589258000</participantID>
+			<position>미래인재도제부장</position>
+			<dutyName/>
+			<rankName/>
+			<ID>letsbemad</ID>
+			<name>박일노</name>
+			<type>user</type>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+			<signerLevel>99</signerLevel>
+			<signlessCode name=""/>
+			<date>2024-03-27T08:23:20</date>
+			<signMethod/>
+			<approvalType>user_agree_p</approvalType>
+			<approvalSubType/>
+			<displayApprovalType>병렬협조</displayApprovalType>
+			<approvalStatus>partapprstatus_done</approvalStatus>
+			<validStatus>valid</validStatus>
+			<grantedAction/>
+			<participantFlag/>
+			<dutyType/>
+			<participantFlag/>
+			<mappingCell>
+				<cellGroupID>0</cellGroupID>
+				<cellName>협조.2</cellName>
+				<cellFormat>0</cellFormat>
+				<cellName_Log/>
+			</mappingCell>
+			<backup>
+				<approvalType/>
+				<approvalSubType/>
+				<auditType/>
+				<complianceType/>
+				<date>1970-01-01T09:00:00</date>
+			</backup>
+		</participant>
+		<participant absent="false" absnceProcGbn="0" current="false" opinion="false" serverID="0" signStyle="text">
+			<participantID>R10CB240866589640000</participantID>
+			<position>교무기획부장</position>
+			<dutyName/>
+			<rankName/>
+			<ID>chkwon</ID>
+			<name>권철호</name>
+			<type>user</type>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+			<signerLevel>99</signerLevel>
+			<signlessCode name=""/>
+			<date>2024-03-27T08:36:06</date>
+			<signMethod/>
+			<approvalType>user_agree_p</approvalType>
+			<approvalSubType/>
+			<displayApprovalType>병렬협조</displayApprovalType>
+			<approvalStatus>partapprstatus_done</approvalStatus>
+			<validStatus>valid</validStatus>
+			<grantedAction/>
+			<participantFlag/>
+			<dutyType/>
+			<participantFlag/>
+			<mappingCell>
+				<cellGroupID>0</cellGroupID>
+				<cellName>협조.3</cellName>
+				<cellFormat>0</cellFormat>
+				<cellName_Log/>
+			</mappingCell>
+			<backup>
+				<approvalType/>
+				<approvalSubType/>
+				<auditType/>
+				<complianceType/>
+				<date>1970-01-01T09:00:00</date>
+			</backup>
+		</participant>
+		<participant absent="false" absnceProcGbn="0" current="false" opinion="false" serverID="0" signStyle="text">
+			<participantID>R10CB240866589259000</participantID>
+			<position>교감</position>
+			<dutyName/>
+			<rankName/>
+			<ID>hslee1123</ID>
+			<name>이효숙</name>
+			<type>user</type>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+			<signerLevel>99</signerLevel>
+			<signlessCode name=""/>
+			<date>2024-03-27T15:00:38</date>
+			<signMethod/>
+			<approvalType>user_approval</approvalType>
+			<approvalSubType/>
+			<displayApprovalType>검토</displayApprovalType>
+			<approvalStatus>partapprstatus_done</approvalStatus>
+			<validStatus>valid</validStatus>
+			<grantedAction/>
+			<participantFlag/>
+			<dutyType/>
+			<participantFlag/>
+			<mappingCell>
+				<cellGroupID>0</cellGroupID>
+				<cellName>서명.3</cellName>
+				<cellFormat>0</cellFormat>
+				<cellName_Log/>
+			</mappingCell>
+			<backup>
+				<approvalType/>
+				<approvalSubType/>
+				<auditType/>
+				<complianceType/>
+				<date>1970-01-01T09:00:00</date>
+			</backup>
+		</participant>
+		<participant absent="false" absnceProcGbn="0" current="true" opinion="false" serverID="0" signStyle="text">
+			<participantID>R10CB240866589641000</participantID>
+			<position>교장</position>
+			<dutyName/>
+			<rankName/>
+			<ID>lsm5438</ID>
+			<name>이상명</name>
+			<type>user</type>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+			<signerLevel>99</signerLevel>
+			<signlessCode name=""/>
+			<date>2024-03-28T08:42:47</date>
+			<signMethod/>
+			<approvalType>user_approval</approvalType>
+			<approvalSubType/>
+			<displayApprovalType>결재</displayApprovalType>
+			<approvalStatus>partapprstatus_done</approvalStatus>
+			<validStatus>valid</validStatus>
+			<grantedAction/>
+			<participantFlag></participantFlag><dutyType/>
+			<participantFlag/>
+			<mappingCell>
+				<cellGroupID>0</cellGroupID>
+				<cellName>서명.4</cellName>
+				<cellFormat>0</cellFormat>
+				<cellName_Log/>
+			</mappingCell>
+			<backup>
+				<approvalType/>
+				<approvalSubType/>
+				<auditType/>
+				<complianceType/>
+				<date>1970-01-01T09:00:00</date>
+			</backup>
+		</participant>
+	</approvalFlow>
+	<examRequest>
+	</examRequest>
+	<pubShowInfo>
+		<pubShow>
+			<ID>mr0613</ID>
+			<name>경주정보고등학교/교사/박미라</name>
+			<type>user</type>
+			<actorID>ljmpra</actorID>
+			<actorDeptID>R100000741</actorDeptID>
+			<department>
+				<ID>R100000741</ID>
+				<name>경주정보고등학교</name>
+			</department>
+		</pubShow>
+	</pubShowInfo>
+	<clientInfo>
+		<cellInfo>
+			<cell height="35" width="58">
+				<cellName>서명.1</cellName>
+				<cellFormat>fmt_normal</cellFormat>
+				<signCell>
+					<title align="center" first="false" kind="fmt_normal" valign="bottom"/>
+					<WMF align="center" height="35" signText="" size="0" valign="bottom" width="58"/>
+				</signCell>
+			</cell>
+			<cell height="35" width="59">
+				<cellName>서명.2</cellName>
+				<cellFormat>fmt_normal</cellFormat>
+				<signCell>
+					<title align="center" first="false" kind="fmt_normal" valign="bottom"/>
+					<WMF align="center" height="35" signText="" size="0" valign="bottom" width="59"/>
+				</signCell>
+			</cell>
+			<cell height="35" width="59">
+				<cellName>서명.3</cellName>
+				<cellFormat>fmt_normal</cellFormat>
+				<signCell>
+					<title align="center" first="false" kind="fmt_normal" valign="bottom"/>
+					<WMF align="center" height="35" signText="" size="0" valign="bottom" width="59"/>
+				</signCell>
+			</cell>
+			<cell height="35" width="59">
+				<cellName>서명.4</cellName>
+				<cellFormat>fmt_normal</cellFormat>
+				<signCell>
+					<title align="center" first="false" kind="fmt_normal" valign="bottom"/>
+					<WMF align="center" height="35" signText="" size="0" valign="bottom" width="59"/>
+				</signCell>
+			</cell>
+			<cell height="21" width="55">
+				<cellName>협조.1</cellName>
+				<cellFormat>fmt_normal</cellFormat>
+				<signCell>
+					<title align="center" first="false" kind="fmt_normal" valign="bottom"/>
+					<WMF align="center" height="21" signText="" size="0" valign="bottom" width="55"/>
+				</signCell>
+			</cell>
+			<cell height="21" width="56">
+				<cellName>협조.2</cellName>
+				<cellFormat>fmt_normal</cellFormat>
+				<signCell>
+					<title align="center" first="false" kind="fmt_normal" valign="bottom"/>
+					<WMF align="center" height="21" signText="" size="0" valign="bottom" width="56"/>
+				</signCell>
+			</cell>
+			<cell height="21" width="57">
+				<cellName>협조.3</cellName>
+				<cellFormat>fmt_normal</cellFormat>
+				<signCell>
+					<title align="center" first="false" kind="fmt_normal" valign="bottom"/>
+					<WMF align="center" height="21" signText="" size="0" valign="bottom" width="57"/>
+				</signCell>
+			</cell>
+			<cell height="21" width="57">
+				<cellName>협조.4</cellName>
+				<cellFormat>fmt_normal</cellFormat>
+				<signCell>
+					<title align="center" first="false" kind="fmt_normal" valign="bottom"/>
+					<WMF align="center" height="21" signText="" size="0" valign="bottom" width="57"/>
+				</signCell>
+			</cell>
+		</cellInfo>
+	</clientInfo>
+	<docHist>
+		<pApprID/>
+		<histTy/>
+		<histTyDetail/>
+	</docHist>
+</hox>
